@@ -2,4 +2,4 @@
 Demonstrating benefit of 3D graph
 
 Github has trouble displaying ipynb at times.
-Please place the github.com url of the notebook into https://nbviewer.jupyter.org/ to view it in such cases.
+Please download and view it in such cases.
